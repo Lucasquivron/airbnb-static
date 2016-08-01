@@ -1,0 +1,67 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: https://hd.unsplash.com/photo-1451153378752-16ef2b36ad05
+  owner_picture: https://media.creativemornings.com/uploads/user/avatar/89900/Profile_picture_square.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  flats_rating: 5
+  guests_max: 3
+  description: Nihil est enim virtute amabilius, nihil quod magis adliciat ad diligendum, quippe cum propter virtutem et probitatem etiam eos, quos numquam vidimus, quodam modo diligamus. Quis est qui C. Fabrici, M'. Curi non cum caritate aliqua benevola.
+romain:
+  owner_name: Romain Paillard
+  picture: https://hd.unsplash.com/photo-1461686935642-0023fdb6f7f4
+  owner_picture: http://nyulangone.org/images/doctors/j/jummani/1265445209/rahil-r-jummani-square.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  flats_rating: 3
+  guests_max: 10
+  description: Nihil est enim virtute amabilius, nihil quod magis adliciat ad diligendum, quippe cum propter virtutem et probitatem etiam eos, quos numquam vidimus, quodam modo diligamus. Quis est qui C. Fabrici, M'. Curi non cum caritate aliqua benevola.
+jeanine:
+  owner_name: Jeanine Noni
+  picture: https://hd.unsplash.com/40/OTwgwURiQN6DLk8zIr8E_DSC00953.jpg
+  owner_picture: http://e21le.com/wp-content/uploads/2014/05/Heather-Mitcheltree-profile-picture-square-crop-300x269.jpg
+  name: Jeanine's home
+  summary: Lovely place downtown
+  city: Miami, USA
+  wifi: false
+  flats_rating: 3
+  guests_max: 10
+  description: Nihil est enim virtute amabilius, nihil quod magis adliciat ad diligendum, quippe cum propter virtutem et probitatem etiam eos, quos numquam vidimus, quodam modo diligamus. Quis est qui C. Fabrici, M'. Curi non cum caritate aliqua benevola.
+paulette:
+  owner_name: Paulette Pail
+  picture: https://hd.unsplash.com/photo-1465322625814-2c183694898c
+  owner_picture: http://poetrysociety.org.uk/wp-content/uploads/2015/12/Wojcik-Leese-square-portrait-12.jpg
+  name: Paulette's home
+  summary: Perfect nid d'amour
+  city: Brussels, Belgium
+  wifi: false
+  flats_rating: 3
+  guests_max: 10
+  description: Nihil est enim virtute amabilius, nihil quod magis adliciat ad diligendum, quippe cum propter virtutem et probitatem etiam eos, quos numquam vidimus, quodam modo diligamus. Quis est qui C. Fabrici, M'. Curi non cum caritate aliqua benevola.
+caroline:
+  owner_name: Caroline Duz
+  picture: https://hd.unsplash.com/photo-1453285134704-7a315c3c99fc
+  owner_picture: http://media.istockphoto.com/photos/hispanic-woman-picture-id517613008?s=170x170
+  name: Caroline's home
+  summary: The place to be
+  city: Barcelona, Spain
+  wifi: false
+  flats_rating: 3
+  guests_max: 10
+  description: Nihil est enim virtute amabilius, nihil quod magis adliciat ad diligendum, quippe cum propter virtutem et probitatem etiam eos, quos numquam vidimus, quodam modo diligamus. Quis est qui C. Fabrici, M'. Curi non cum caritate aliqua benevola.
+julien:
+  owner_name: Julien Prost
+  picture: https://hd.unsplash.com/photo-1461609027498-7c0524aba788
+  owner_picture: https://logopond.com/avatar/11219/profile_square_small.jpg
+  name: Caroline's home
+  summary: Amazing place
+  city: Rio, Brazil
+  wifi: false
+  flats_rating: 3
+  guests_max: 10
+  description: Nihil est enim virtute amabilius, nihil quod magis adliciat ad diligendum, quippe cum propter virtutem et probitatem etiam eos, quos numquam vidimus, quodam modo diligamus. Quis est qui C. Fabrici, M'. Curi non cum caritate aliqua benevola.
+
